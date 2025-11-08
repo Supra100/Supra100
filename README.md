@@ -1,18 +1,37 @@
-# 💫 About Me:
-I am currently pursuing Btech with computer <br>Science and Business system course and <br>eiger in machine learning <br>
+## 👋 Hi there, I'm Supratim Saha Choudhury!
 
+### 🧐 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Supro_brave) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Supratim Saha Choudhury ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supratimsaha129@gmail.com) 
+- 🎓 I am a B Tech student aspiring to delve deep into Computer Science and Business Systems.
+- 💻 Currently exploring various programming languages like Python, Java, and C++ to enhance my coding skills.
+- 🚀 Eager to learn and contribute to the tech community through innovative projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Supra100&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Supra100&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supra100&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💼 GitHub Insights
 
----
-[![](https://visitcount.itsvg.in/api?id=Supra100&icon=4&color=11)](https://visitcount.itsvg.in)
+- 🔍 **Overall Conclusion:**  
+  As a relatively new member of the GitHub community, I am enthusiastic about learning and growing in the tech space.
+- 💻 **Coding Habits:**  
+  Though I haven't made any commits yet, my academic focus on Computer Science hints at my coding proficiency.
+- 🌟 **Project Contributions:**  
+  I am currently developing a project called "Supra100" and look forward to expanding my contributions in the future.
+- 📈 **GitHub Presence:**  
+  With zero followers and stars on my public repository, I am excited about establishing my presence within the GitHub community.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Supra100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supra100)
+![trophy](https://github-profile-trophy.vercel.app/?username=Supra100)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Supra100)
+
+### 🛠️ Skills
+- Python
+- Java
+- C++
+- HTML
+- CSS
+
+### 🚀 Connect with Me
+- LinkedIn: [Supratim Saha Choudhury](https://www.linkedin.com/in/saha-choudhury)
+- Email: support@supratimsaha.com
+
+Let's connect, collaborate, and innovate in the vast world of technology! 🚀
