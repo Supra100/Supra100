@@ -29,7 +29,6 @@
 - Java
 - C++
 - HTML
-- CSS
 
 ### 🚀 Connect with Me
 - LinkedIn: [Supratim Saha Choudhury](https://www.linkedin.com/in/saha-choudhury)
