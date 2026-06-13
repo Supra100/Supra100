@@ -4,6 +4,7 @@
 
 - 🎓 I am a B Tech student aspiring to delve deep into Computer Science and Business Systems.
 - 💻 Currently exploring various programming languages like Python, Java, and C++ to enhance my coding skills.
+- 💻 Trying to develop skills in Database and DSA.
 - 🚀 Eager to learn and contribute to the tech community through innovative projects.
 
 ### 💼 GitHub Insights
@@ -32,6 +33,6 @@
 
 ### 🚀 Connect with Me
 - LinkedIn: [Supratim Saha Choudhury](https://www.linkedin.com/in/saha-choudhury)
-- Email: support@supratimsaha.com
+- Email: support@supratimsaha129@gmail.com
 
 Let's connect, collaborate, and innovate in the vast world of technology! 🚀
