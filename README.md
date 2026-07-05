@@ -26,7 +26,7 @@
 
 ### 🛠️ Skills
 - Python
-- Java
+- Java(Mainly)
 - C++
 - HTML
 
